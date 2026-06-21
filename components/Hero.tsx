@@ -22,20 +22,46 @@ export default function Hero() {
         systems for next-generation telecom infrastructure.
       </p>
 
-      <div className="mt-8 flex gap-4">
+      {/* BUTTONS */}
+      <div className="mt-8 flex flex-wrap gap-4 justify-center">
         <a
           href="#projects"
-          className="px-6 py-2 bg-cyan-500 text-black rounded-full"
+          className="px-6 py-2 bg-cyan-500 text-black rounded-full hover:bg-cyan-400 transition"
         >
           View Work
         </a>
 
         <a
-          href="/cv/Daniel_Yismaw_CV.pdf"
+          href="/Daniel_Yismaw_CV.pdf"
           download
-          className="px-6 py-2 border rounded-full"
+          className="px-6 py-2 border rounded-full hover:bg-cyan-500 hover:text-black transition"
         >
           Download CV
+        </a>
+
+        <a
+          href="tel:+251912761763"
+          className="px-6 py-2 bg-green-500 text-black rounded-full hover:bg-green-400 transition"
+        >
+          Call Me
+        </a>
+
+        <a
+          href="https://wa.me/251912761763"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="px-6 py-2 bg-green-600 text-white rounded-full hover:bg-green-500 transition"
+        >
+          WhatsApp
+        </a>
+
+        <a
+          href="https://www.linkedin.com/in/daniel-yismaw-56732b156/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="px-6 py-2 border rounded-full hover:bg-cyan-500 hover:text-black transition"
+        >
+          LinkedIn
         </a>
       </div>
     </section>
