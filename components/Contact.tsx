@@ -5,8 +5,7 @@ export default function Contact() {
 
       <div className="text-gray-400 space-y-3">
         <p>Email: dyismaw4@gmail.com</p>
-        <p>Phone: +251-912-761-763</p>
-
+        <p>Phone: +251912761763</p>
         <a
           href="https://www.linkedin.com/in/daniel-yismaw-56732b156/"
           className="text-cyan-400"
