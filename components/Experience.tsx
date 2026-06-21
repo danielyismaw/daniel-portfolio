@@ -26,15 +26,12 @@ export default function Experience() {
           <p className="text-cyan-400">Amhara Media Corporation | 2019</p>
 
           <ul className="text-gray-400 mt-3 list-disc ml-5 space-y-2">
-            <li>TV and radio transmission system maintenance</li>
-            <li>Live broadcast technical support and OB operations</li>
-            <li>Signal monitoring and transmission fault recovery</li>
+            <li>TV and radio transmission system maintenance.</li>
+            <li>Live broadcast technical support and OB operations.</li>
+            <li>Signal monitoring and transmission fault recovery.</li>
             <li>
               Audio and Video Recording: Stewardship of the audio-video
               recording chain, from field microphones to the digital archive.
-              This involves maintaining professional studio cameras (Grass
-              Valley HD), pedestals, and recording software to ensure
-              high-fidelity capture of content
             </li>
           </ul>
         </div>
@@ -44,9 +41,9 @@ export default function Experience() {
           <p className="text-cyan-400">Bahir Dar University | 2017–2018</p>
 
           <ul className="text-gray-400 mt-3 list-disc ml-5 space-y-2">
-            <li>Computer hardware/software maintenance and repair</li>
-            <li>LAN setup and structured cabling systems</li>
-            <li>System optimization and cybersecurity support</li>
+            <li>Computer hardware/software maintenance and repair.</li>
+            <li>LAN setup and structured cabling systems.</li>
+            <li>System optimization and cybersecurity support.</li>
           </ul>
         </div>
       </div>
