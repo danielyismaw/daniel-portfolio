@@ -1,6 +1,6 @@
 const projects = [
   {
-    title: "Telecom Monitoring Dashboard",
+    title: "Rebuilding Apple.com's homepage using HTML & CSS",
     tech: "Next.js + Node.js",
   },
   {
