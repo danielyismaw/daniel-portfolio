@@ -29,6 +29,13 @@ export default function Experience() {
             <li>TV and radio transmission system maintenance</li>
             <li>Live broadcast technical support and OB operations</li>
             <li>Signal monitoring and transmission fault recovery</li>
+            <li>
+              Audio and Video Recording: Stewardship of the audio-video
+              recording chain, from field microphones to the digital archive.
+              This involves maintaining professional studio cameras (Grass
+              Valley HD), pedestals, and recording software to ensure
+              high-fidelity capture of content
+            </li>
           </ul>
         </div>
 
